@@ -109,7 +109,7 @@ void pushValue(int value) {
   values[width-1] = value;
 }
 
-// Push the timestamps in the time arra
+// Push the timestamps in the time array
 void pushTime(long time) {
   for (int i=0; i<width-1; i++)
     times[i] = times[i+1];
