@@ -58,8 +58,8 @@ int com_port  = 5;   // Index number in Serial.list
 // * ----------------------------------------------
 
 // Global vars
-//import processing.serial.*;
-//Serial port;                    // Create object from Serial class
+import processing.serial.*;
+Serial port;                    // Create object from Serial class
 int val;                        // Data received from the serial port
 long valTime;                   // Time data was received
 int[] values;
@@ -73,9 +73,8 @@ boolean pause;
 
 // Setup
 void setup() {
-  size(displayWidth, displayHeight);
-  orientation(LANDSCAPE);
-  //port = new Serial(this, Serial.list()[com_port], 9600);    // Com port specified here
+  size(1280, 480);
+  port = new Serial(this, Serial.list()[com_port], 9600);    // Com port specified here
   //port = new Serial(this, Serial.list()[com_port], 1200);
   values = new int[width];
   times = new long[width];
@@ -87,15 +86,15 @@ void setup() {
 }
 
 // Read value from serial stream
-//int getValue() {
-//  int value = -1;
-//  while (port.available () >= 3) {
-//    if (port.read() == 0xff) {
-//      value = (port.read() << 8) | (port.read());
-//    }
-//  }
-//  return value;
-//}
+int getValue() {
+  int value = -1;
+  while (port.available () >= 3) {
+    if (port.read() == 0xff) {
+      value = (port.read() << 8) | (port.read());
+    }
+  }
+  return value;
+}
 
 // Get a y-value for the datapoint, varies based on axis settings
 int getY(int val) {
@@ -279,7 +278,7 @@ void draw()
   background(0);
   drawGrid();
   // Get current voltage, time of reading
-  //val = getValue();
+  val = getValue();
   valTime = System.nanoTime();
   
   // If not paused
@@ -297,3 +296,4 @@ void draw()
   drawLines();
   drawVertLines();
 }
+

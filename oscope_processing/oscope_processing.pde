@@ -1,5 +1,5 @@
 /*
-* Oscilloscope
+ * Oscilloscope
  * Gives a visual rendering of analog pin in realtime.
  *
  * ---------------- IMPROVEMENTS ------------------
@@ -75,7 +75,6 @@ boolean pause;
 void setup() {
   size(displayWidth, displayHeight);
   orientation(LANDSCAPE);
-  //port = new Serial(this, Serial.list()[com_port], 9600);    // Com port specified here
   //port = new Serial(this, Serial.list()[com_port], 1200);
   values = new int[width];
   times = new long[width];
