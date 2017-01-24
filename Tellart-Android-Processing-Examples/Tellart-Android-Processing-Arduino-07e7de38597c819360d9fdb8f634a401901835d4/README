@@ -1,0 +1,23 @@
+Android+Processing+Arduino, APA is a collection of examples made by us at Tellart for a workshop we hosted for
+the interaction design students at Umea University with the topic Mobile hacking. 
+
+The examples all have individual Processing codes, Arduino codes and illustrations of how to connect up the electronics
+and can be found in the download section here at Git
+
+The examples available are:
+  * Ball Move  is moving a circle left and right over the screen
+  * Move Object is moving a circle over the screen depending on the values from two analog sensors connected to Arduino
+  * Color Picker  controls the background color of your Android device using three analog sensors connected to the Arduino
+  * Etch a Sketch  is the classic etch a sketch toy in Android style controlled by two analog sensors at the Arduino
+  * LED Fade is fading a LED connected to the Arduino by swipping the finger over the screen
+  * Oscillo is a analog oscilloscope that draws the value from a analog sensor to the screen visualizing it over time
+  * RFID is controlling the background color of the Android device using a set of RFID tags read by the Arduino
+  * RGB controls the background color of your Android device using three analog sensors connected to the Arduino
+  * RGB Accel is controlling a RGB LED connected to the Arduino using the built in accelerometer at the Android device
+  * RGB slider is controlling a RGB LED connected to the Arduino using three sliders at the Android device screen
+  * Servo Finger is controlling a servo motor connected to the Arduino by sliding your finger over the screen
+  * Servo Slider is controlling a servo motor connected to the Arduino by moving a slider back and forth on the screen
+  * TapOn is turning on a LED when you press down at the Android screen
+  * Two Led Fade is fading two LEDs by moving your finger around on the screen. X axis is one LED and Y axis the other
+  
+  
