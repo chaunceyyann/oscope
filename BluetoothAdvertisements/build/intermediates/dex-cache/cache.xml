@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_689d44aeaea00bffba7df0467ffffc663840d4b9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7269151cf2da005a8a6588b42f8d1ed7772d3d1a">
+        <dex dex="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_70ca4d17032faec5447738be3fd2aaa9ba3dd097\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_7518f4dae34cce307cb0d18e68a690e9a088ff49\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="11c190c0e42e69715efd828b270341e5f6db1d93">
+        <dex dex="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_361a082bc5569fed60f97a797f90971b223d4e87\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_7efd9fd3f5808df0a2d8581fd29dd5f883c6389a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_b2b15e30a9c81fe62e2a4faf6d7db69dd10ef6b5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.1.1_fd5955bd2eb8c59c3518a1db66da5edc47142d25\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\cyanjin\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_c06ba7d1a5e1301842f3af0dda3b613e4b8a13c6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_21d585eeae9cd5f83d4ed526095bad1d41013b38\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_2bad62ab2de76647472f063c31be3f0dd7549959\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_0fd1a49ad34c189c289eba5d65305a3359d0ef09\classes.dex" />
+    </item>
+
+</items>

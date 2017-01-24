@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="1015292386842196"
+    token="-533941818999593228" >
+
+    <task
+        name="javac"
+        duration="930" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="403" />
+    <task
+        name="verifier"
+        duration="140" />
+
+    <artifact
+        location="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\outputs\apk\Application-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1015292386842196" >
+        <artifact
+            location="C:\Users\cyanjin\Documents\git\oscope\BluetoothAdvertisements\Application\build\outputs\apk\Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

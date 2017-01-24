@@ -1,0 +1,3 @@
+CHANGED,C:\Users\cyanjin\Documents\git\oscope\BluetoothLeGatt\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\bluetoothlegatt\BluetoothLeService$LocalBinder$override.class
+CHANGED,C:\Users\cyanjin\Documents\git\oscope\BluetoothLeGatt\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\cyanjin\Documents\git\oscope\BluetoothLeGatt\Application\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\bluetoothlegatt\BluetoothLeService$override.class
